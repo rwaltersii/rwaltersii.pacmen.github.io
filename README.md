@@ -10,7 +10,7 @@ Add code to the starter files provided by the MIT Staff to make unlimited pacmen
 
 ## Installation / How to run:
 
-No installation required. Copy / Paste (drag / drop) index.html in the url of a browser.
+Click on the "Green Code" button in the respository. Click Download Zip file and save it to your local machine. Unzip the file and Drag and Drop the index.html file to the URL of a web browser.
 
 ## Usage:
 
